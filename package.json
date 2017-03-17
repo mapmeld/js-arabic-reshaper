@@ -1,0 +1,28 @@
+{
+  "name": "arabic-reshaper",
+  "version": "1.0.0",
+  "description": "Replace Arabic text with their presentation forms for situations where there is no automatic text-shaping",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapmeld/js-arabic-reshaper.git"
+  },
+  "keywords": [
+    "arabic",
+    "text",
+    "typography"
+  ],
+  "author": "Nick Doiron <ndoiron@mapmeld.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/mapmeld/js-arabic-reshaper/issues"
+  },
+  "homepage": "https://github.com/mapmeld/js-arabic-reshaper#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
