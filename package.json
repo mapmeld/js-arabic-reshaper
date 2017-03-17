@@ -1,7 +1,7 @@
 {
-  "name": "arabic-reshaper",
+  "name": "js-arabic-reshaper",
   "version": "1.0.0",
-  "description": "Replace Arabic text with their presentation forms for situations where there is no automatic text-shaping",
+  "description": "Replace Arabic letters with their presentation forms for situations where there is no automatic text-shaping",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
