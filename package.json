@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/mapmeld/js-arabic-reshaper#readme",
   "devDependencies": {
-    "chai": "^3.5.0",
+    "chai": "^4.1.2",
     "mocha": "^3.2.0"
   }
 }
