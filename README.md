@@ -1,5 +1,7 @@
 # js-arabic-reshaper
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mapmeld/js-arabic-reshaper.svg)](https://greenkeeper.io/)
+
 Text reshaper for Arabic text - ported from <a href='https://github.com/mpcabd/python-arabic-reshaper'>Python</a>
 and Java versions.
 
