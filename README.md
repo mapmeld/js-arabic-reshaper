@@ -1,5 +1,13 @@
 # js-arabic-reshaper
 
+## This project is archived
+
+## NON-GPL, all-languages Arabic Unicode module here:
+
+https://github.com/georeactor/alif-toolkit
+
+--------
+
 Text reshaper for Arabic text - ported from <a href='https://github.com/mpcabd/python-arabic-reshaper'>Python</a>
 and Java versions.
 
